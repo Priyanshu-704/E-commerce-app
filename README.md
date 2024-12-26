@@ -41,8 +41,8 @@ This is a simple eCommerce website developed using **HTML**, **CSS**, and **Java
 ---
 
 ## Credits
-- Developed by: **[Your Name]**
-- Contact: **[Your Email]**
+- Developed by: **Priyanshu Maheshwari**
+- Contact: **priyanshumaheshwari704@gmail.com**
 
 ---
 
